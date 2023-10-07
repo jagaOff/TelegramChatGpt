@@ -51,5 +51,4 @@ public class Bot {
         if(!response.isOk()) System.out.println("response not send");
     }
 
-
 }
