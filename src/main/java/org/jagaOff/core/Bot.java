@@ -1,4 +1,4 @@
-package org.zephir0g.core;
+package org.jagaOff.core;
 
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;
@@ -8,7 +8,7 @@ import com.pengrad.telegrambot.model.request.ParseMode;
 import com.pengrad.telegrambot.request.SendMessage;
 import com.pengrad.telegrambot.response.SendResponse;
 import okhttp3.OkHttpClient;
-import org.zephir0g.config.Config;
+import org.jagaOff.config.Config;
 
 public class Bot {
     private TelegramBot bot;

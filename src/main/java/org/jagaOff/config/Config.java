@@ -1,4 +1,4 @@
-package org.zephir0g.config;
+package org.jagaOff.config;
 
 public class Config {
 

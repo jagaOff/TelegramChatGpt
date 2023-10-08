@@ -1,6 +1,6 @@
-package org.zephir0g;
+package org.jagaOff;
 
-import org.zephir0g.core.Bot;
+import org.jagaOff.core.Bot;
 
 public class Main {
     public static void main(String[] args) {
